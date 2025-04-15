@@ -1,5 +1,5 @@
 # dataentry.com
-<!DOCTYPE html>
+CREDIT BY THE SOMRAY
 <html lang="en">
 <head>
     <meta charset="UTF-8">
